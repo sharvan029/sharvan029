@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hameed Sharvan
 - 👀 I’m interested in Data Engineering and Cloud Technologies
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently Improving my expertise on Python 
 - 💞️ I’m looking to collaborate on Cloud Data Engineering
 
 <!---
